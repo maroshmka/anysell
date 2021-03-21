@@ -11,7 +11,7 @@ with open(here / "requirements.txt", "r") as f:
 
 setup(
     name='anysell',
-    version='0.0.2',
+    version='0.0.3',
     description='Sell any item you want on any market platform easily.',
     long_description=long_description,
     long_description_content_type='text/markdown',
