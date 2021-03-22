@@ -26,8 +26,7 @@ setup(
         'Programming Language :: Python :: 3 :: Only',
     ],
     keywords='automatization, sale, goods, cli',
-    package_dir={'': 'anysell'},
-    packages=find_packages(where='anysell'),
+    packages=find_packages(),
     python_requires='>=3.6, <4',
 
     install_requires=requirements,
